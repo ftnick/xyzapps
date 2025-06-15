@@ -1,9 +1,0 @@
-[2025-04-29 19:26:57] [DEBUG   ] FIM: [Started Logger]
-[2025-04-29 19:26:57] [DEBUG   ] FIM: imported, id: 103305824
-[2025-04-29 19:26:57] [DEBUG   ] FIM: File Integrity Monitor initiated
-[2025-04-29 19:27:04] [INFO    ] FIM: Backup successful for ./data at ./backups\backup_2025-04-29_19-27-04
-[2025-04-29 19:27:04] [INFO    ] FIM: Backup successful for ./cogs at ./backups\backup_2025-04-29_19-27-04
-[2025-04-29 19:27:04] [INFO    ] FIM: Backup successful for ./required_cogs at ./backups\backup_2025-04-29_19-27-04
-[2025-04-29 19:27:04] [INFO    ] FIM: Backup successful for ./modules at ./backups\backup_2025-04-29_19-27-04
-[2025-04-29 19:27:04] [INFO    ] FIM: Backup successful for ./plugins at ./backups\backup_2025-04-29_19-27-04
-[2025-04-29 19:27:04] [DEBUG   ] FIM: Initial scan completed. Database updated.

@@ -1,9 +1,0 @@
-[2025-04-29 19:27:03] [DEBUG   ] required_cogs.events: [Started Logger]
-[2025-04-29 19:27:03] [DEBUG   ] required_cogs.events: imported, id: 108639664
-[2025-04-29 19:27:05] [INFO    ] required_cogs.events: Connected To Discord Servers
-[2025-04-29 19:27:07] [INFO    ] required_cogs.events: Logged in as feature (1320350507419697222)
-[2025-04-29 19:27:07] [INFO    ] required_cogs.events: Bot latency: 0.212s
-[2025-04-29 19:27:07] [INFO    ] required_cogs.events: Bot version: 0.0D
-[2025-04-29 19:27:07] [INFO    ] required_cogs.events: discord.py API version: 2.4.0
-[2025-04-29 19:27:07] [INFO    ] required_cogs.events: Python version: 3.13.2
-[2025-04-29 19:27:07] [INFO    ] required_cogs.events: Bot is ready!

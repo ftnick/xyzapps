@@ -1,4 +1,0 @@
-[2025-04-29 19:27:04] [DEBUG   ] cogs.privatevccontrol: [Started Logger]
-[2025-04-29 19:27:04] [DEBUG   ] cogs.privatevccontrol: imported, id: 109345856
-[2025-04-29 19:27:04] [INFO    ] cogs.privatevccontrol: No saved user_channels file found.
-[2025-04-29 19:27:04] [DEBUG   ] cogs.privatevccontrol: user_channels: {}
