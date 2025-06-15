@@ -1,0 +1,7 @@
+ftnick: ?closeticket
+feature#9913: 
+ftnick: ?close
+ftnick: ?hoststatus
+feature#9913: 
+ftnick: ?status
+feature#9913: <@&1339866256865755137> | <@701632642822701057>

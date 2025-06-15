@@ -1,0 +1,29 @@
+[2025-04-29 19:26:56] [DEBUG   ] main_register: [Started Logger]
+[2025-04-29 19:27:03] [DEBUG   ] main_register: Starting registration for 'Events'...
+[2025-04-29 19:27:03] [DEBUG   ] main_register: Successfully registered 'Events' in 1.67ms
+[2025-04-29 19:27:03] [DEBUG   ] main_register: Starting registration for 'Admin'...
+[2025-04-29 19:27:03] [DEBUG   ] main_register: Successfully registered 'Admin' in 0.27ms
+[2025-04-29 19:27:03] [DEBUG   ] main_register: Starting registration for 'Afksystem'...
+[2025-04-29 19:27:03] [DEBUG   ] main_register: Successfully registered 'Afksystem' in 0.76ms
+[2025-04-29 19:27:03] [DEBUG   ] main_register: Starting registration for 'Bothelp'...
+[2025-04-29 19:27:03] [DEBUG   ] main_register: Successfully registered 'Bothelp' in 0.29ms
+[2025-04-29 19:27:03] [DEBUG   ] main_register: Starting registration for 'Debug'...
+[2025-04-29 19:27:03] [DEBUG   ] main_register: Successfully registered 'Debug' in 0.32ms
+[2025-04-29 19:27:03] [DEBUG   ] main_register: Starting registration for 'Moderation'...
+[2025-04-29 19:27:03] [DEBUG   ] main_register: Successfully registered 'Moderation' in 1.03ms
+[2025-04-29 19:27:04] [DEBUG   ] main_register: Starting registration for 'Privatevccontrol'...
+[2025-04-29 19:27:04] [DEBUG   ] main_register: Successfully registered 'Privatevccontrol' in 2.48ms
+[2025-04-29 19:27:04] [DEBUG   ] main_register: Starting registration for 'Rbxclothing'...
+[2025-04-29 19:27:04] [DEBUG   ] main_register: Successfully registered 'Rbxclothing' in 0.26ms
+[2025-04-29 19:27:04] [DEBUG   ] main_register: Starting registration for 'Tickets'...
+[2025-04-29 19:27:04] [DEBUG   ] main_register: Successfully registered 'Tickets' in 0.25ms
+[2025-04-29 19:27:04] [DEBUG   ] main_register: Registration Results:
+[2025-04-29 19:27:04] [DEBUG   ] main_register: Name: Events     | Status: Finished   | Execution Time: 1.67ms     | Error: N/A
+[2025-04-29 19:27:04] [DEBUG   ] main_register: Name: Admin      | Status: Finished   | Execution Time: 0.27ms     | Error: N/A
+[2025-04-29 19:27:04] [DEBUG   ] main_register: Name: Afksystem  | Status: Finished   | Execution Time: 0.76ms     | Error: N/A
+[2025-04-29 19:27:04] [DEBUG   ] main_register: Name: Bothelp    | Status: Finished   | Execution Time: 0.29ms     | Error: N/A
+[2025-04-29 19:27:04] [DEBUG   ] main_register: Name: Debug      | Status: Finished   | Execution Time: 0.32ms     | Error: N/A
+[2025-04-29 19:27:04] [DEBUG   ] main_register: Name: Moderation | Status: Finished   | Execution Time: 1.03ms     | Error: N/A
+[2025-04-29 19:27:04] [DEBUG   ] main_register: Name: Privatevc~ | Status: Finished   | Execution Time: 2.48ms     | Error: N/A
+[2025-04-29 19:27:04] [DEBUG   ] main_register: Name: Rbxclothi~ | Status: Finished   | Execution Time: 0.26ms     | Error: N/A
+[2025-04-29 19:27:04] [DEBUG   ] main_register: Name: Tickets    | Status: Finished   | Execution Time: 0.25ms     | Error: N/A
